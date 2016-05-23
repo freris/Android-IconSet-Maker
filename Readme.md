@@ -1,4 +1,4 @@
-## Android-IconSet-Maker 1.0 ##
+## Android-IconSet-Maker 1.1##
 
 This software is a **free** software for all Android developers
 
@@ -16,7 +16,9 @@ Creates all folders that needed in /res folder
 
 (*The selected png image, must be greater than 256 x 256 pixels*)
 
-Version **1.0**
+Version **1.1**
+
+Thanks to lainz for his suggestion to using the BGRABitmap component
 
 I hope that will be useful for all
 
@@ -24,4 +26,4 @@ I hope that will be useful for all
 
 Creetings from a retired programmer Athens - Greece 
 
-*5/16/2016 4:26:03 PM*
+*5/24/2016 12:13:57 AM*
